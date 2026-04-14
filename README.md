@@ -59,3 +59,19 @@ The dataset consists of multiple relational tables:
 ---
 
 ## 📁 Project Structure
+
+
+
+## 🤖 AI Usage
+
+AI tools (ChatGPT) were used for:
+- debugging code
+- improving visualizations
+- structuring analysis
+
+All final decisions and implementation were performed by the author.
+
+---
+
+## 👤 Author
+Taha Unal
