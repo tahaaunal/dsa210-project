@@ -123,6 +123,13 @@ This highlights the complexity of League of Legends matches, where additional fa
 
 ---
 
+## Key Insight
+
+Although meta champions tend to have higher win rates in descriptive analysis, machine learning results show that match outcomes cannot be reliably predicted using meta alone.
+
+This suggests that meta selection is not the dominant factor in determining match results, and that other elements such as player skill, team composition, and in-game dynamics play a more significant role.
+
+
 ## ⚠️ Limitations
 
 - Meta definition is simplified and not patch-specific  
