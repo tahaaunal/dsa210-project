@@ -62,6 +62,29 @@ The dataset consists of multiple relational tables:
 
 
 
+## Hypothesis Testing
+
+Two hypotheses were tested in this project:
+
+### Hypothesis 1: Meta Advantage
+
+H0: There is no difference in win rates between meta and non-meta champions.  
+H1: Meta champions have higher win rates than non-meta champions.
+
+### Hypothesis 2: Rank-Based Difference
+
+H0: There is no difference in meta champion win rates between high-elo and low-elo players.  
+H1: Meta champion win rates differ between high-elo and low-elo players.
+
+A two-sample t-test was performed to evaluate these hypotheses.
+
+Results:
+The p-value was greater than 0.05, meaning that the null hypothesis could not be rejected.
+
+This suggests that although meta champions tend to perform better, the difference between ranks was not statistically significant in this dataset.
+
+
+
 ## 🤖 AI Usage
 
 AI tools (ChatGPT) were used for:
@@ -73,5 +96,10 @@ All final decisions and implementation were performed by the author.
 
 ---
 
+
+
 ## 👤 Author
 Taha Unal
+
+
+
