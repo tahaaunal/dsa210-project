@@ -150,6 +150,13 @@ All outputs were reviewed and implemented manually.
 
 ---
 
+## How to Run
+
+pip install -r requirements.txt
+python src/analysis.py
+
+---
+
 ## 👤 Author
 
 Taha Unal
